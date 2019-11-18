@@ -5,3 +5,7 @@ body {
   
   color: black
 }
+.ok{
+ background-image: url("scenery.jpg");
+ background-attachment: fixed;
+}
